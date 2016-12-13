@@ -3,3 +3,5 @@ orange
 blue
 green
 yellow
+red
+violet
